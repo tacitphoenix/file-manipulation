@@ -1,0 +1,15 @@
+Types of Dogs
+German Shepherd
+Bulldog
+Poodle
+Terrier
+Greyhound
+
+Facts
+Male: dog
+Female: bitch
+Young: puppy
+Social: pack
+Habitat: varied
+Favorite Food: leftovers
+Top Speed: 30 mph

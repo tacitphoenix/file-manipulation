@@ -1,0 +1,6 @@
+10
+ten
+10 is divisible 2 and 5
+ten is divisible two and five
+10 is an even number
+ten is an even number

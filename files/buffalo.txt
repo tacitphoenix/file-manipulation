@@ -1,0 +1,10 @@
+Facts
+Male: bull
+Female: cow
+Young: calf
+Social: group
+Group: herd
+Habitat: plains, forest
+Favorite Food: grass
+Enemies: wolves
+Top Speed: 37 mph

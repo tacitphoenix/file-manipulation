@@ -1,0 +1,15 @@
+Types of Cats
+Siamese
+Persian
+Maine Coon
+
+Fact
+Male: tom
+Female: queen
+Young: kitten
+Social: family
+Group: clowder
+Habitat: varied
+Favorite Food: mice
+Top Speed: 30 mph
+Endangered: no

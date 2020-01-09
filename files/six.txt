@@ -1,0 +1,6 @@
+6
+six
+6 is divisible by 2 and 3
+six is divisible by two and three
+6 is an even number
+six is an even number

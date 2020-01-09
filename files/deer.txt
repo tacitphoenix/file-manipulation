@@ -1,0 +1,14 @@
+Type of Deer
+Roe
+Red
+Fallow
+Sika
+
+Reindeer Facts
+Male: bull
+Female: cow
+Young: calf
+Group: herd
+Habitat: taiga
+Enemies: wolf, bear
+Top Speed: 45 mph

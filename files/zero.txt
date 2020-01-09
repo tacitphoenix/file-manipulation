@@ -1,0 +1,4 @@
+0
+zero
+any number divided by 0 is not a number
+any number divided by zero is not a number

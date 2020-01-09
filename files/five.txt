@@ -1,0 +1,6 @@
+5
+five
+5 is a prime number
+five is a prime number
+5 is an odd number
+five is an odd number

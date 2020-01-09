@@ -1,0 +1,9 @@
+Facts
+Male: bull
+Female: cow
+Young: calf
+Social: group
+Group: pod
+Habitat: ocean
+Favorite Food: fish, squid
+Top Speed: 35 mph

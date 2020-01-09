@@ -1,0 +1,6 @@
+2
+two
+2 is a prime number
+two is a prime number
+2 is an even number
+two is an even number

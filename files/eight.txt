@@ -1,0 +1,6 @@
+8
+eight
+8 is divisible by 2 and 4
+eight is divisible by two and four
+8 is an even number
+eight is an even number
