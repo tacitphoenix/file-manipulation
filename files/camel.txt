@@ -1,9 +1,0 @@
-Facts
-Male: bull
-Female: cow
-Young: calf
-Social: herd
-Group: flock, train, caravan
-Favorite food: leaves, grass
-Enemies: wolves, tigers
-Top Speed: 40 mph

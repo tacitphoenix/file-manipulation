@@ -1,6 +1,0 @@
-1
-one
-all numbers are divisible by 1 except 0
-all numbers are divisible by one except zero
-1 is an odd number
-one is an odd number

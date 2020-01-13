@@ -1,6 +1,0 @@
-9
-nine
-9 is divisible by 3
-nine is divisible by three
-9 is an odd number
-nine is an odd number

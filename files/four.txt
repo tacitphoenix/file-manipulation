@@ -1,6 +1,0 @@
-4
-four
-4 is divisible by 2
-four is divisible by four
-4 is an even number
-four is an even number

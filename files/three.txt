@@ -1,6 +1,0 @@
-3
-three
-3 is a prime number
-three is a prime number
-3 is an odd number
-three is an odd number

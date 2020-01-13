@@ -1,6 +1,0 @@
-7
-seven
-7 is a prime number
-seven is a prime number
-7 is an odd number
-seven is an odd number
